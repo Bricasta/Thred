@@ -72,7 +72,7 @@ html, body{
  header {
    color:#FFFFFF;
    background: #737F72;
-   background-image: linear-gradient(-225deg, #737F72  0%, #B8CC86 100%);
+   background-image: linear-gradient(45deg, #737F72  0%, #B8CC86 100%);
  }
  header nav { 
    padding:1em 0;
