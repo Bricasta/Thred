@@ -336,3 +336,15 @@ html, body{
    }
  }
 
+/* PHOTOS */
+.photos img { 
+   height: 300px;
+   width: auto;
+   padding: 10px;
+   margin: 10px auto;
+   display: block;
+   position: relative;
+   overflow: hidden;
+   align: left;
+   }
+
